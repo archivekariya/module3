@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<string.h>    
 
-main()
+int main()
 {
     char name[50];    
     char copyname[50]; 
